@@ -55,6 +55,59 @@
     display: inline-block;
     
   }
+  .Dotout{
+    margin-left:180px;
+     margin-bottom: 20px; 
+     display: flex;
+  }
+  .Dotin{
+    margin-top: 80px; 
+    margin-left:-110px;
+    margin-right: 50px;
+  }
+  .Dot3out{
+    margin-left: 200px; 
+    margin-right: 60px;
+    margin-top: -40px;
+    margin-bottom:50px;
+    padding-bottom: 90px;
+  }
+  .img_girl{
+    width:300px; height: 400px;height: 400px; margin-left: 5px;margin-top: -50px;
+  }
+  .ins{
+    margin-top: 240px;
+     margin-left: 40px;
+     margin-right: 10px;
+     padding: 10px;
+  }
+  .insicon{
+    margin-left: 7px;
+    margin-bottom: -2px; 
+  }
+  .faceicon{
+    margin-left: 5px;
+    
+    margin-bottom: -2px; 
+  }
+  .twiticon{
+    margin-left: 5px;
+    margin-bottom: -2px; 
+  }
+  .appicon{
+    margin-left: 5px;
+    margin-bottom: -2px;
+  }
+  .colortext{
+    color: white;
+  }
+  .icon1{
+    margin-left: 5px;
+  }
+ 
+  .color{
+    color: orange;
+  }
   .flat{
     display: flex;
    
@@ -147,11 +200,11 @@
     z-index: -1;
     border-radius: inherit;
 }
- .second
- {
-    
- 
- } 
+.butstyle{
+  padding-left: 25px; 
+  padding-right: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;                 
+}
  .foot
  {
      text-align: center;
